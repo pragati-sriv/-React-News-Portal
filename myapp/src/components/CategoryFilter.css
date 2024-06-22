@@ -1,0 +1,16 @@
+
+select {
+    padding: 8px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 200px; 
+    color: #333;
+  }
+  
+  @media (max-width: 768px) {
+    select {
+      width: 100%;
+    }
+  }
+  
